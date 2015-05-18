@@ -17,9 +17,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The run_analysis.R script contains the following variables:
 
 trainXData <- training data read from /train/X_train.txt
-
 trainYLabels <- training labels read from train/y_train.txt
-
 trainSubjects <- training subjects read from /train/subject_train.txt
 
 testXData <- test data read from /test/X_test.txt
