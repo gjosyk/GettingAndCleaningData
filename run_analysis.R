@@ -1,6 +1,4 @@
 # 1 -  Merge the training and the test sets to create one data set
-#setwd("C:\\education\\DataScience\\Getting_and_Cleaning_Data\\UCI HAR Dataset\\")
-setwd("C:\\Users\\GJOsyk\\GettingAndCleaningData\\UCI HAR Dataset\\")
 trainXData <- read.table("./train/X_train.txt")
 trainYLabels <- read.table("./train/y_train.txt")
 trainSubjects <- read.table("./train/subject_train.txt")
